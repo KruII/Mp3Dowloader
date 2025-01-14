@@ -47,7 +47,7 @@ MediaDownloader is a Python-based tool to download Spotify tracks, Spotify playl
 ## Usage
 Run the script using Python:
 ```bash
-python media_downloader.py
+python MP3Dowloader.py
 ```
 
 ### Commands
